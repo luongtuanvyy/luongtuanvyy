@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm luongtuanvy</h1>
 <h3 align="center">A passionate fullstack developer from VietNam</h3>
 
-<p align="center"> <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="luongtuanvyy" /> </p>
+<p align="center"> <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="luongtuanvyy" /></p>
 
 - 💬 Ask me about **React, Spring Boot, etc...**
 
@@ -104,7 +104,3 @@
   </p>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luongtuanvyy&show_icons=true&locale=en&layout=compact" alt="luongtuanvyy" /></p>
-<br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=luongtuanvyy&show_icons=true&locale=en" alt="luongtuanvyy" /></p>
-<br/>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=luongtuanvyy&" alt="luongtuanvyy" /></p>
